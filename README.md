@@ -6,12 +6,16 @@ This is a prototype of the artboard editor for the upcoming service 256px.io . Y
 ## Technologies / Dependencies:
 * jQuery
 * HTML5/CSS3
+
 ## Installation
 You can use this straight away on the http://256px.github.io/ . Alternatively, you can download this repository and just serve it statically.
+
 ## Documentation
 Not available at this point in time.
+
 ## How to contribute
 You can fork this repository and make a pull request. Please also check any [issues](https://github.com/256px/256px.github.io/issues) first.
+
 ## Other
 If you would like to get in touch directly, drop [Bart](mailto:bart@256px.io) / [Julien](mailto:julien@256px.io) an email.
 
