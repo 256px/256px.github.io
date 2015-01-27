@@ -1,4 +1,4 @@
-[![Code Climate](https://codeclimate.com/github/256px/256px.github.io/badges/gpa.svg)](https://codeclimate.com/github/256px/256px.github.io) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/256px/256px.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Code Climate](https://codeclimate.com/github/256px/256px.github.io/badges/gpa.svg)](https://codeclimate.com/github/256px/256px.github.io) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/256px/256px.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/256px/256px.github.io.svg)](https://travis-ci.org/256px/256px.github.io)
 
 # 256px.github.io
 This is a prototype of the artboard editor for the upcoming service 256px.io . You can [signup](http://256px.io/) for beta access.
