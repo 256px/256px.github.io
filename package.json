@@ -1,0 +1,15 @@
+{
+  "name": "256pxrestapi",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"No tests to run\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT"
+}
