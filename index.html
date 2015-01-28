@@ -7,14 +7,24 @@
     <script type="text/javascript" src="./app.ui.js"></script>
     <style media="screen">
       .editor{
-        width: 80px;
+        width: 160px;
         display: block;
       }
       .pixel{
-        width: 5px;
-        height: 5px;
+        width: 10px;
+        height: 10px;
         outline: 1px solid silver;
         float: left;
+        cursor: pointer;
+      }
+      .pixel:hover{
+        outline: 1px solid black;
+      }
+      .colorhistory .colorpicker{
+        float: left;
+        width: 80px;
+        height: 20px;
+        border: 1px solid black;
       }
     </style>
   </head>
@@ -24,6 +34,7 @@
       </div>
       <div class="colorpicker">
       <input type="color" name="color" value="#00ff00" class="i_color">
+      <div class="colorhistory"><div class="colorpicker history-00ff00"></div></div>
       </div>
     </div>
   </body>
