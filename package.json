@@ -4,9 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "grunt": "*"
+    "bower": "*",
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-serve": "*",
+    "connect": "*"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"No tests to run\" && exit 0"
   },
