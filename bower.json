@@ -9,6 +9,7 @@
   "dependencies": {
     "foundation": "*",
     "angular": "*",
-    "angular-foundation":"*"
+    "angular-foundation":"*",
+    "angular-route":"*"
   }
 }
